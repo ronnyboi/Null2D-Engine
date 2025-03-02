@@ -1,6 +1,8 @@
 #include "Engine.h"
 #include <iostream>
 #include "../Graphics/TextureManager.h"
+#include "../Physics/Vector2D.h"
+#include "../Physics/Transform.h"
 
 Engine* Engine::s_Instance = nullptr;
 
@@ -27,6 +29,14 @@ bool Engine::Init()
 	}
 
 	TextureManager::GetInstance()->Load("trees", "assets/trees.png");
+
+	// testing the vector and transform classes
+	Vector2D v1, v2;
+	v1.Log(" V1: ");
+
+	Transform tf;
+	tf.Log();
+
 	return m_IsRunning = true;
 }
 
