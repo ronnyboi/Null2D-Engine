@@ -1,16 +1,59 @@
 ﻿  Engine.cpp
-  TextureManager.cpp
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(28,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(28,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(28,37): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(28,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(29,25): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(29,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(29,28): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(29,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(29,31): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(29,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(29,38): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-D:\Null2D-Engine\src\Graphics\TextureManager.cpp(29,38): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Null2D-Engine\src\Physics\Vector2D.h(11,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/Core/Engine.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(11,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/Core/Engine.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(18,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Core/Engine.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(18,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Core/Engine.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(24,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Core/Engine.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(24,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Core/Engine.cpp')
+  
+  Transform.cpp
+D:\Null2D-Engine\src\Physics\Vector2D.h(11,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/Physics/Transform.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(11,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/Physics/Transform.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(18,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Physics/Transform.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(18,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Physics/Transform.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(24,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Physics/Transform.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(24,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Physics/Transform.cpp')
+  
+  Vector2D.cpp
+D:\Null2D-Engine\src\Physics\Vector2D.h(11,41): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/Physics/Vector2D.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(11,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'src/Physics/Vector2D.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(18,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Physics/Vector2D.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(18,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Physics/Vector2D.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(24,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Physics/Vector2D.cpp')
+  
+D:\Null2D-Engine\src\Physics\Vector2D.h(24,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Physics/Vector2D.cpp')
+  
   Generating Code...
   Null2d.vcxproj -> D:\Null2D-Engine\x64\Debug\Null2d.exe
