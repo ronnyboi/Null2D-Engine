@@ -143,11 +143,21 @@ SDL3_image.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GameObject.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="src\Core\Engine.cpp" />
+    <ClCompile Include="src\Graphics\TextureManager.cpp" />
+    <ClCompile Include="src\Object\IObject.cpp" />
+    <ClCompile Include="src\Physics\Transform.cpp" />
+    <ClCompile Include="src\Physics\Vector2D.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Core\Engine.h" />
+    <ClInclude Include="src\Graphics\TextureManager.h" />
+    <ClInclude Include="src\Object\GameObject.h" />
+    <ClInclude Include="src\Object\IObject.h" />
+    <ClInclude Include="src\Physics\Transform.h" />
+    <ClInclude Include="src\Physics\Vector2D.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

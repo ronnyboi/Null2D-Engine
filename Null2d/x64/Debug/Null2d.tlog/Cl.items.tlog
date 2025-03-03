@@ -1,2 +1,5 @@
 D:\Null2D-Engine\main.cpp;D:\Null2D-Engine\Null2d\x64\Debug\main.obj
 D:\Null2D-Engine\src\Core\Engine.cpp;D:\Null2D-Engine\Null2d\x64\Debug\Engine.obj
+D:\Null2D-Engine\src\Graphics\TextureManager.cpp;D:\Null2D-Engine\Null2d\x64\Debug\TextureManager.obj
+D:\Null2D-Engine\src\Physics\Transform.cpp;D:\Null2D-Engine\Null2d\x64\Debug\Transform.obj
+D:\Null2D-Engine\src\Physics\Vector2D.cpp;D:\Null2D-Engine\Null2d\x64\Debug\Vector2D.obj
